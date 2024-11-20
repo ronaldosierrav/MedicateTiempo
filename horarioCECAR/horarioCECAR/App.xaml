@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="horarioCECAR.App">
+    <Application.Resources>
+        <ResourceDictionary>
+            <!-- Definir colores globales -->
+            <Color x:Key="PrimaryColor">#C8E6C9</Color>
+            <Color x:Key="DarkGreenColor">#1B5E20</Color>
+            <Color x:Key="LightTextColor">White</Color>
+
+            <!-- Estilos para el botón -->
+            <Style x:Key="ButtonStyle" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="{StaticResource PrimaryColor}" />
+                <Setter Property="TextColor" Value="{StaticResource LightTextColor}" />
+                <Setter Property="CornerRadius" Value="5" />
+                <Setter Property="Margin" Value="10" />
+                <Setter Property="Padding" Value="15,10" />
+            </Style>
+
+            <!-- Estilos para la etiqueta -->
+            <Style TargetType="Label">
+                <Setter Property="FontSize" Value="16" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="Margin" Value="10" />
+            </Style>
+
+            <!-- Estilos para el marco -->
+            <Style TargetType="Frame">
+                <Setter Property="Padding" Value="10" />
+                <Setter Property="CornerRadius" Value="5" />
+                <Setter Property="Margin" Value="10" />
+            </Style>
+
+            <!-- Estilos para la entrada -->
+            <Style TargetType="Entry">
+                <Setter Property="PlaceholderColor" Value="Gray" />
+                <Setter Property="FontSize" Value="14" />
+            </Style>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
+

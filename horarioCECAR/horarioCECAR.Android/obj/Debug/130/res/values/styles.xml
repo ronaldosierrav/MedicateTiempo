@@ -1,0 +1,1 @@
+<resources><style name="MainTheme" parent="Theme.AppCompat.Light.NoActionBar"><!-- Customize your theme here. --><item name="colorPrimary">#C8E6C9</item><!-- Color de fondo --><item name="colorPrimaryDark">#1B5E20</item><!-- Color de la barra de estado --><item name="colorAccent">#FF4081</item><!-- Color de acento --></style></resources>

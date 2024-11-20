@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:carousel="clr-namespace:CarouselView.FormsPlugin.Abstractions;assembly=CarouselView.FormsPlugin.Abstractions"
+            x:Class="MedicateATiempo.views.Pestañainicio" xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+            android:TabbedPage.ToolbarPlacement="Bottom"
+            BackgroundColor="#C8E6C9"
+            BarBackgroundColor="White"
+            BarTextColor="#000000">
+
+    <!-- Pestaña Inicio -->
+    <ContentPage Title="Inicio" IconImageSource="p11.png">
+        <StackLayout Spacing="10" Padding="10">
+
+            <!-- Header con icono y título -->
+            <StackLayout Orientation="Horizontal" VerticalOptions="Start">
+                <Image Source="logobase.png" WidthRequest="50" HeightRequest="50" VerticalOptions="Center"/>
+                <BoxView WidthRequest="200" />
+                <!-- Espacio -->
+                <Label Text="Principal" 
+                       FontSize="Large" 
+                       FontAttributes="Bold" 
+                       VerticalOptions="Center"
+                       HorizontalOptions="StartAndExpand"
+                       HorizontalTextAlignment="End"/>
+            </StackLayout>
+
+            <!-- Cuadro de Bienvenida -->
+            <Frame BackgroundColor="#B39DDB" CornerRadius="10" Padding="10" Margin="0,10,0,0">
+                <StackLayout>
+                    <Label Text="¡Bienvenido a MedicateATiempo!" 
+                           FontSize="Medium" 
+                           FontAttributes="Bold" 
+                           TextColor="White"/>
+                    <Label Text="Facilitamos la gestión de tu medicación para mejorar tu salud y bienestar. Este widget es tu compañero para recordarte cuándo y cómo tomar tus medicamentos, garantizando un tratamiento eficaz y seguro."
+                           FontSize="Small"
+                           TextColor="White"/>
+                </StackLayout>
+            </Frame>
+
+            <!-- Carrusel de Recordatorios -->
+            <Frame BackgroundColor="#E57373" CornerRadius="10" Padding="10" Margin="0,10,0,0">
+                <StackLayout>
+                    <carousel:CarouselViewControl x:Name="infoCarouselView"
+                                                  ItemsSource="{Binding InfoCollection}"
+                                                  HeightRequest="150"
+                                                  IndicatorsTintColor="Gray" 
+                                                  CurrentPageIndicatorTintColor="Black">
+                        <carousel:CarouselViewControl.ItemTemplate>
+                            <DataTemplate>
+                                <StackLayout>
+                                    <Label Text="{Binding InfoText}" TextColor="White" FontSize="Medium" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+                                </StackLayout>
+                            </DataTemplate>
+                        </carousel:CarouselViewControl.ItemTemplate>
+                    </carousel:CarouselViewControl>
+                </StackLayout>
+            </Frame>
+
+            <!-- Carrusel de Fotos -->
+            <Frame BackgroundColor="#F8BBD0" CornerRadius="10" Padding="10" Margin="0,10,0,10">
+                <StackLayout>
+                    <carousel:CarouselViewControl x:Name="photoCarouselView" 
+                                                  ItemsSource="{Binding PhotoCollection}"
+                                                  HeightRequest="200"
+                                                  IndicatorsTintColor="Gray" 
+                                                  CurrentPageIndicatorTintColor="Black">
+                        <carousel:CarouselViewControl.ItemTemplate>
+                            <DataTemplate>
+                                <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+                                    <Image Source="{Binding Photo}" Aspect="AspectFill" HeightRequest="200"/>
+                                </StackLayout>
+                            </DataTemplate>
+                        </carousel:CarouselViewControl.ItemTemplate>
+                    </carousel:CarouselViewControl>
+                </StackLayout>
+            </Frame>
+
+        </StackLayout>
+    </ContentPage>
+
+    <!-- Pestaña Notificaciones -->
+    <ContentPage Title="Notificaciones" IconImageSource="p22.png">
+        <StackLayout>
+            <Label Text="Notificaciones" 
+                   FontSize="Large" 
+                   FontAttributes="Bold" 
+                   VerticalOptions="CenterAndExpand" 
+                   HorizontalOptions="CenterAndExpand"/>
+        </StackLayout>
+    </ContentPage>
+
+
+    <!-- Pestaña Fecha -->
+    <ContentPage Title="Fecha" IconImageSource="p33.png">
+        <AbsoluteLayout VerticalOptions="FillAndExpand">
+            <!-- ScrollView para el contenido de la página -->
+            <ScrollView AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="All" HorizontalScrollBarVisibility="Always" VerticalScrollBarVisibility="Always">
+                <StackLayout Padding="10">
+                    <Frame BackgroundColor="#C8E6C9" BorderColor="Transparent" CornerRadius="10" Padding="10" Margin="0,10,0,15">
+                        <StackLayout Orientation="Horizontal" VerticalOptions="Center">
+                            <Image Source="logobase.png" WidthRequest="50" HeightRequest="50" VerticalOptions="Center"/>
+                            <!-- Espacio en blanco para separar la imagen del texto -->
+                            <BoxView WidthRequest="20"/>
+                            <Label Text="Fechas de entrega" 
+                               FontSize="Large" 
+                               FontAttributes="Bold" 
+                               TextColor="White"
+                               HorizontalOptions="End"
+                               VerticalOptions="Center"/>
+                        </StackLayout>
+                    </Frame>
+
+                    <Label Text="Medicamentos" 
+                       FontSize="Large" 
+                       FontAttributes="Bold" 
+                       Margin="10,10,0,0"
+                       TextColor="White"
+                       HorizontalOptions="Fill"/>
+
+                    <CollectionView ItemsSource="{Binding Medications}" Margin="10,0,10,10">
+                        <CollectionView.ItemTemplate>
+                            <DataTemplate>
+                                <ScrollView Orientation="Horizontal" HorizontalScrollBarVisibility="Always" VerticalScrollBarVisibility="Never">
+                                    <Grid Padding="5" Margin="0,2,0,0" BackgroundColor="White">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="Auto"/>
+                                            <ColumnDefinition Width="Auto"/>
+                                            <ColumnDefinition Width="1"/>
+                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="Auto"/>
+                                            <!-- Añadido para el botón -->
+                                        </Grid.ColumnDefinitions>
+
+                                        <Label Text="{Binding estado}" FontSize="Small" TextColor="Gray" VerticalOptions="Center" Grid.Column="0" FontAttributes="Bold"/>
+                                        <Label Text="{Binding StatusIcon}" FontSize="40" VerticalOptions="Center" Grid.Column="1">
+                                            <Label.Triggers>
+                                                <DataTrigger TargetType="Label" Binding="{Binding estado}" Value="EnProceso">
+                                                    <Setter Property="TextColor" Value="Yellow"/>
+                                                </DataTrigger>
+                                                <DataTrigger TargetType="Label" Binding="{Binding estado}" Value="Entregado">
+                                                    <Setter Property="TextColor" Value="Green"/>
+                                                </DataTrigger>
+                                                <DataTrigger TargetType="Label" Binding="{Binding estado}" Value="Retardado">
+                                                    <Setter Property="TextColor" Value="Red"/>
+                                                </DataTrigger>
+                                            </Label.Triggers>
+                                        </Label>
+                                        <BoxView Color="Gray" WidthRequest="1" VerticalOptions="Fill" Grid.Column="2" HeightRequest="20"/>
+                                        <Label Text="{Binding medicamento_nombre}" FontSize="Small" VerticalOptions="Center" Grid.Column="3"/>
+                                        <Button Text="⋯" FontSize="30" Clicked="OnDetailsButtonClicked" VerticalOptions="Center" HorizontalOptions="End" Grid.Column="4" TextColor="Red" FontAttributes="Bold" BackgroundColor="Transparent" BorderColor="#B39DDB"/>
+                                    </Grid>
+                                </ScrollView>
+                            </DataTemplate>
+                        </CollectionView.ItemTemplate>
+                    </CollectionView>
+                </StackLayout>
+            </ScrollView>
+
+            <!-- Detalles del Medicamento Seleccionado -->
+            <AbsoluteLayout x:Name="PopupLayout" IsVisible="False">
+                <Frame x:Name="PopupFrame" BackgroundColor="White" CornerRadius="10" Padding="10"
+           AbsoluteLayout.LayoutBounds="0,1.1,0.15,0.8" AbsoluteLayout.LayoutFlags="All">
+                    <StackLayout>
+                        <Button Text="X" Clicked="CerrarPopup_Clicked" HorizontalOptions="End" BackgroundColor="Transparent"/>
+                        <Label Text="Fecha Salida" FontSize="Medium" HorizontalOptions="CenterAndExpand" Margin="0,5"/>
+                        <Label Text="{Binding SelectedMedication.fechaSalida, StringFormat='{0:yyyy/MM/dd}'}" FontSize="Medium"  HorizontalOptions="CenterAndExpand" Margin="0,5"/>
+                        <Label Text="Fecha Entrega" FontSize="Medium" HorizontalOptions="CenterAndExpand" Margin="0,5"/>
+                        <Label Text="{Binding SelectedMedication.fechaEntrega, StringFormat='{0:yyyy/MM/dd}'}" FontSize="Large" FontAttributes="Bold" HorizontalOptions="CenterAndExpand" Margin="0,5"/>
+                        <Image Source="apk2.png" WidthRequest="600" HorizontalOptions="CenterAndExpand"/>
+                        <Label Text="{Binding SelectedMedication.medicamento_nombre}" FontSize="Title" FontAttributes="Bold" HorizontalOptions="CenterAndExpand" Margin="0,10"/>
+                    </StackLayout>
+                </Frame>
+            </AbsoluteLayout>
+
+
+
+        </AbsoluteLayout>
+    </ContentPage>
+
+
+
+
+
+
+    <!-- Pestaña Informes -->
+    <ContentPage Title="Informes" IconImageSource="p44.png">
+        <StackLayout>
+            <Label Text="Informes" 
+                   FontSize="Large" 
+                   FontAttributes="Bold" 
+                   VerticalOptions="CenterAndExpand" 
+                   HorizontalOptions="CenterAndExpand"/>
+        </StackLayout>
+    </ContentPage>
+
+    <!-- Pestaña Usuario -->
+    <ContentPage Title="Usuario" IconImageSource="p55.png">
+        <StackLayout>
+            <Label Text="Usuario" 
+                   FontSize="Large" 
+                   FontAttributes="Bold" 
+                   VerticalOptions="CenterAndExpand" 
+                   HorizontalOptions="CenterAndExpand"/>
+        </StackLayout>
+    </ContentPage>
+
+</TabbedPage>

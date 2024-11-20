@@ -1,0 +1,90 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="horarioCECAR.views.Principal"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <!-- Definir colores -->
+            <Color x:Key="PrimaryColor">#C8E6C9</Color>
+            <Color x:Key="DarkGreenColor">#c8a2c8</Color>
+            <Color x:Key="LightTextColor">White</Color>
+            <!-- Estilos para el botón -->
+            <Style x:Key="ButtonStyle" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="#c4c4c4" />
+                <Setter Property="TextColor" Value="{DynamicResource LightTextColor}" />
+                <Setter Property="CornerRadius" Value="5" />
+                <Setter Property="Margin" Value="10" />
+                <Setter Property="Padding" Value="12,10" />
+   
+            </Style>
+            <!-- Estilos para la etiqueta -->
+            <Style TargetType="Label">
+                <Setter Property="FontSize" Value="16" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="Margin" Value="10" />
+            </Style>
+            <!-- Estilos para el marco -->
+            <Style TargetType="Frame">
+                <Setter Property="Padding" Value="10" />
+                <Setter Property="CornerRadius" Value="5" />
+                <Setter Property="Margin" Value="10" />
+            </Style>
+            <!-- Estilos para la entrada -->
+            <Style TargetType="Entry">
+                <Setter Property="PlaceholderColor" Value="Gray" />
+                <Setter Property="FontSize" Value="14" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <!-- Contenido de la página -->
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Frame BackgroundColor="{DynamicResource PrimaryColor}" HasShadow="False" Padding="0" Margin="0" Grid.Row="0" Grid.Column="0">
+                <Frame.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                        <GradientStop Color="#c8a2c8" Offset="0" />
+                        <GradientStop Color="{DynamicResource DarkGreenColor}" Offset="1" />
+                    </LinearGradientBrush>
+                </Frame.Background>
+                <StackLayout VerticalOptions="Center">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+
+                        <Image Source="logobase" WidthRequest="150" HeightRequest="150" HorizontalOptions="Center" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" />
+
+                        <Label Text="BIENVENIDO" FontSize="30" HorizontalOptions="Center" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" TextColor="{DynamicResource LightTextColor}" />
+
+                        <Frame BackgroundColor="White" Grid.Row="2" Grid.ColumnSpan="2">
+                            <Entry x:Name="correo1" Placeholder="Correo" PlaceholderColor="Gray" />
+                        </Frame>
+
+                        <Frame BackgroundColor="White" Grid.Row="3" Grid.ColumnSpan="2">
+                            <Entry x:Name="contraseña1" Placeholder="Contraseña" IsPassword="True" PlaceholderColor="Gray" />
+                        </Frame>
+
+                        <Button Text="Ingresar" Clicked="Buscarhorariocompleto" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" Style="{StaticResource ButtonStyle}" />
+                    </Grid>
+                </StackLayout>
+            </Frame>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
