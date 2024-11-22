@@ -32,3 +32,4 @@ C:\Users\ronal\Downloads\horarioCECAR\horarioCECAR\horarioCECAR\obj\Debug\netsta
 C:\Users\ronal\Downloads\horarioCECAR\horarioCECAR\horarioCECAR\obj\Debug\netstandard2.0\refint\MedicateATiempo.dll
 C:\Users\ronal\Downloads\horarioCECAR\horarioCECAR\horarioCECAR\obj\Debug\netstandard2.0\MedicateATiempo.pdb
 C:\Users\ronal\Downloads\horarioCECAR\horarioCECAR\horarioCECAR\obj\Debug\netstandard2.0\ref\MedicateATiempo.dll
+C:\Users\ronal\Downloads\horarioCECAR\horarioCECAR\horarioCECAR\obj\Debug\netstandard2.0\MedicateATiempo.sourcelink.json

@@ -3,52 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|c:\\users\\ronal\\downloads\\horariocecar\\horariocecar\\horariocecar\\views\\pesta\u00F1ainicio.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|solutionrelative:horariocecar\\horariocecar\\views\\pesta\u00F1ainicio.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+      "AbsoluteMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|c:\\users\\ronal\\downloads\\horariocecar\\horariocecar\\horariocecar\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|solutionrelative:horariocecar\\horariocecar\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|c:\\users\\ronal\\downloads\\horariocecar\\horariocecar\\horariocecar\\views\\pesta\u00F1ainicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|solutionrelative:horariocecar\\horariocecar\\views\\pesta\u00F1ainicio.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|c:\\users\\ronal\\downloads\\horariocecar\\horariocecar\\horariocecar\\.gitignore||{68B46364-D378-42F2-9E72-37D86C5F4468}",
+      "RelativeMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|solutionrelative:horariocecar\\horariocecar\\.gitignore||{68B46364-D378-42F2-9E72-37D86C5F4468}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|c:\\users\\ronal\\downloads\\horariocecar\\horariocecar\\horariocecar\\data\\horariodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|solutionrelative:horariocecar\\horariocecar\\data\\horariodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|c:\\users\\ronal\\downloads\\horariocecar\\horariocecar\\horariocecar\\views\\principal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|solutionrelative:horariocecar\\horariocecar\\views\\principal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|c:\\users\\ronal\\downloads\\horariocecar\\horariocecar\\horariocecar\\models\\entregamedicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|solutionrelative:horariocecar\\horariocecar\\models\\entregamedicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|c:\\users\\ronal\\downloads\\horariocecar\\horariocecar\\horariocecar\\models\\horario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|solutionrelative:horariocecar\\horariocecar\\models\\horario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|c:\\users\\ronal\\downloads\\horariocecar\\horariocecar\\horariocecar\\models\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|solutionrelative:horariocecar\\horariocecar\\models\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|c:\\users\\ronal\\downloads\\horariocecar\\horariocecar\\horariocecar\\views\\principal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|solutionrelative:horariocecar\\horariocecar\\views\\principal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+      "AbsoluteMoniker": "D:0:0:{5660FAD5-5A93-4008-AB54-AC7B2D8A65D1}|TestProject1\\TestProject1.csproj|c:\\users\\ronal\\downloads\\horariocecar\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5660FAD5-5A93-4008-AB54-AC7B2D8A65D1}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|c:\\users\\ronal\\downloads\\horariocecar\\horariocecar\\horariocecar\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|solutionrelative:horariocecar\\horariocecar\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|c:\\users\\ronal\\downloads\\horariocecar\\horariocecar\\horariocecar\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|solutionrelative:horariocecar\\horariocecar\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+      "AbsoluteMoniker": "D:0:0:{5660FAD5-5A93-4008-AB54-AC7B2D8A65D1}|TestProject1\\TestProject1.csproj|c:\\users\\ronal\\downloads\\horariocecar\\testproject1\\test_prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5660FAD5-5A93-4008-AB54-AC7B2D8A65D1}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\test_prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|c:\\users\\ronal\\downloads\\horariocecar\\horariocecar\\horariocecar\\medicateatiempo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|solutionrelative:horariocecar\\horariocecar\\medicateatiempo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|c:\\users\\ronal\\downloads\\horariocecar\\horariocecar\\horariocecar\\views\\principal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|solutionrelative:horariocecar\\horariocecar\\views\\principal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|c:\\users\\ronal\\downloads\\horariocecar\\horariocecar\\horariocecar\\views\\principal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|solutionrelative:horariocecar\\horariocecar\\views\\principal.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CE64FDE-7EEB-47A4-8923-007BDA4E71C1}|horarioCECAR\\horarioCECAR.Android\\MedicateaTiempo.Android.csproj|C:\\Users\\ronal\\Downloads\\horarioCECAR\\horariocecar\\horariocecar.android\\dependency\\obtenerruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CE64FDE-7EEB-47A4-8923-007BDA4E71C1}|horarioCECAR\\horarioCECAR.Android\\MedicateaTiempo.Android.csproj|solutionrelative:horariocecar\\horariocecar.android\\dependency\\obtenerruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CE64FDE-7EEB-47A4-8923-007BDA4E71C1}|horarioCECAR\\horarioCECAR.Android\\MedicateaTiempo.Android.csproj|C:\\Users\\ronal\\Downloads\\horarioCECAR\\horariocecar\\horariocecar.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CE64FDE-7EEB-47A4-8923-007BDA4E71C1}|horarioCECAR\\horarioCECAR.Android\\MedicateaTiempo.Android.csproj|solutionrelative:horariocecar\\horariocecar.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB35D301-8251-4D3A-BE8E-D5EDC1DD0178}|horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj|c:\\users\\ronal\\downloads\\horariocecar\\horariocecar\\horariocecar\\dependency\\iruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,163 +53,145 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MainActivity.cs",
-              "DocumentMoniker": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR.Android\\MainActivity.cs",
-              "RelativeDocumentMoniker": "horarioCECAR\\horarioCECAR.Android\\MainActivity.cs",
-              "ToolTip": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR.Android\\MainActivity.cs",
-              "RelativeToolTip": "horarioCECAR\\horarioCECAR.Android\\MainActivity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T00:44:19.039Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Pesta\u00F1ainicio.xaml",
-              "DocumentMoniker": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\views\\Pesta\u00F1ainicio.xaml",
-              "RelativeDocumentMoniker": "horarioCECAR\\horarioCECAR\\views\\Pesta\u00F1ainicio.xaml",
-              "ToolTip": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\views\\Pesta\u00F1ainicio.xaml",
-              "RelativeToolTip": "horarioCECAR\\horarioCECAR\\views\\Pesta\u00F1ainicio.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-03T15:21:45.63Z",
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\.gitignore",
+              "RelativeDocumentMoniker": "horarioCECAR\\horarioCECAR\\.gitignore",
+              "ToolTip": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\.gitignore",
+              "RelativeToolTip": "horarioCECAR\\horarioCECAR\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-22T01:34:02.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Pesta\u00F1ainicio.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\views\\Pesta\u00F1ainicio.xaml.cs",
-              "RelativeDocumentMoniker": "horarioCECAR\\horarioCECAR\\views\\Pesta\u00F1ainicio.xaml.cs",
-              "ToolTip": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\views\\Pesta\u00F1ainicio.xaml.cs",
-              "RelativeToolTip": "horarioCECAR\\horarioCECAR\\views\\Pesta\u00F1ainicio.xaml.cs",
-              "ViewState": "AQIAAGMAAAAAAAAAAAAkwBcAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T15:46:18.898Z"
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\.gitignore",
+              "RelativeDocumentMoniker": "horarioCECAR\\horarioCECAR\\.gitignore",
+              "ToolTip": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\.gitignore",
+              "RelativeToolTip": "horarioCECAR\\horarioCECAR\\.gitignore",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-22T01:33:23.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "entregamedicamento.cs",
-              "DocumentMoniker": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\models\\entregamedicamento.cs",
-              "RelativeDocumentMoniker": "horarioCECAR\\horarioCECAR\\models\\entregamedicamento.cs",
-              "ToolTip": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\models\\entregamedicamento.cs",
-              "RelativeToolTip": "horarioCECAR\\horarioCECAR\\models\\entregamedicamento.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAA8wCYAAAAAAAAA",
+              "Title": "test_prueba.cs",
+              "DocumentMoniker": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\TestProject1\\test_prueba.cs",
+              "RelativeDocumentMoniker": "TestProject1\\test_prueba.cs",
+              "ToolTip": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\TestProject1\\test_prueba.cs",
+              "RelativeToolTip": "TestProject1\\test_prueba.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T19:15:12.531Z"
+              "WhenOpened": "2024-11-21T01:24:27.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MedicateATiempo.csproj",
+              "DocumentMoniker": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj",
+              "RelativeDocumentMoniker": "horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj",
+              "ToolTip": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj",
+              "RelativeToolTip": "horarioCECAR\\horarioCECAR\\MedicateATiempo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T01:19:41.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAMwPEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-21T01:13:38.122Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HorarioDataBase.cs",
-              "DocumentMoniker": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\Data\\HorarioDataBase.cs",
-              "RelativeDocumentMoniker": "horarioCECAR\\horarioCECAR\\Data\\HorarioDataBase.cs",
-              "ToolTip": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\Data\\HorarioDataBase.cs",
-              "RelativeToolTip": "horarioCECAR\\horarioCECAR\\Data\\HorarioDataBase.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAABDAAAA",
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T19:35:08.133Z"
+              "WhenOpened": "2024-11-21T01:09:30.063Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\MainPage.xaml",
-              "RelativeDocumentMoniker": "horarioCECAR\\horarioCECAR\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\MainPage.xaml",
-              "RelativeToolTip": "horarioCECAR\\horarioCECAR\\MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-07T19:27:04.865Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "horarioCECAR\\horarioCECAR\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\MainPage.xaml.cs",
               "RelativeToolTip": "horarioCECAR\\horarioCECAR\\MainPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T18:40:39.222Z"
+              "WhenOpened": "2024-06-07T18:40:39.222Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Horario.cs",
-              "DocumentMoniker": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\models\\Horario.cs",
-              "RelativeDocumentMoniker": "horarioCECAR\\horarioCECAR\\models\\Horario.cs",
-              "ToolTip": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\models\\Horario.cs",
-              "RelativeToolTip": "horarioCECAR\\horarioCECAR\\models\\Horario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T18:14:30.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Principal.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\views\\Principal.xaml.cs",
               "RelativeDocumentMoniker": "horarioCECAR\\horarioCECAR\\views\\Principal.xaml.cs",
               "ToolTip": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\views\\Principal.xaml.cs",
               "RelativeToolTip": "horarioCECAR\\horarioCECAR\\views\\Principal.xaml.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAhwDoAAABEAAAA",
+              "ViewState": "AgIAACIAAAAAAAAAAAASwDoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T01:34:43.396Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Medicamento.cs",
-              "DocumentMoniker": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\models\\Medicamento.cs",
-              "RelativeDocumentMoniker": "horarioCECAR\\horarioCECAR\\models\\Medicamento.cs",
-              "ToolTip": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\models\\Medicamento.cs",
-              "RelativeToolTip": "horarioCECAR\\horarioCECAR\\models\\Medicamento.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T23:12:11.507Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Principal.xaml",
               "DocumentMoniker": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\views\\Principal.xaml",
               "RelativeDocumentMoniker": "horarioCECAR\\horarioCECAR\\views\\Principal.xaml",
               "ToolTip": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\views\\Principal.xaml",
               "RelativeToolTip": "horarioCECAR\\horarioCECAR\\views\\Principal.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAmAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-08T23:09:44.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "ObtenerRuta.cs",
               "DocumentMoniker": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR.Android\\Dependency\\ObtenerRuta.cs",
               "RelativeDocumentMoniker": "horarioCECAR\\horarioCECAR.Android\\Dependency\\ObtenerRuta.cs",
               "ToolTip": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR.Android\\Dependency\\ObtenerRuta.cs",
               "RelativeToolTip": "horarioCECAR\\horarioCECAR.Android\\Dependency\\ObtenerRuta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T18:18:14.409Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "IRuta.cs",
               "DocumentMoniker": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\Dependency\\IRuta.cs",
               "RelativeDocumentMoniker": "horarioCECAR\\horarioCECAR\\Dependency\\IRuta.cs",
               "ToolTip": "C:\\Users\\ronal\\Downloads\\horarioCECAR\\horarioCECAR\\horarioCECAR\\Dependency\\IRuta.cs",
               "RelativeToolTip": "horarioCECAR\\horarioCECAR\\Dependency\\IRuta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T18:16:07.735Z"
             }

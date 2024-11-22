@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MedicateATiempo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d51279ae20cb94d2fc36e3562262698883b6336")]
 [assembly: System.Reflection.AssemblyProductAttribute("MedicateATiempo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MedicateATiempo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
