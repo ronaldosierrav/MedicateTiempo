@@ -3,6 +3,7 @@ using horarioCECAR.Dependency;
 using Rg.Plugins.Popup;
 using horarioCECAR.views;
 using Xamarin.Forms;
+using MedicateATiempo.views;
 
 namespace horarioCECAR
 {

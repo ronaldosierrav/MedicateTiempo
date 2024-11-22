@@ -62,8 +62,6 @@ namespace horarioCECAR.views
 
 
 
-
-
         public event PropertyChangedEventHandler PropertyChanged;
 
         // This method is called by the Set accessor of each property.  
